@@ -6,6 +6,7 @@ public class GitHelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world from git !");
 		System.out.println("test a modification");
+		System.out.println("apres avoir branché le proto");
 	}
 
 }
